@@ -1,0 +1,28 @@
+<div class="image">
+<img src="./assets/DIO Site.jpg" alt="Certificado DIO">
+<img src="./assets/Rockseat.jpg" alt="">
+</div>
+
+<style>
+ div.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+  div.image img {
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: all 0.5s ease;
+    cursor: pointer;
+    object-fit: cover;
+    object-position: center;
+  }
+  
+  div.image img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  }
+</style>
