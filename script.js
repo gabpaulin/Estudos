@@ -1,5 +1,3 @@
-import { SpeedInsights } from "@vercel/speed-insights/next"
-
 function toggleMode() {
   const html = document.documentElement
   html.classList.toggle("light")
