@@ -2,7 +2,7 @@
 Student and programming lover
 Improving my skills more and more
 
-## connect with me
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-stoltemberg-950563287/)
 
 ## Habilities
