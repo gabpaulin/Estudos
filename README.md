@@ -1,9 +1,6 @@
-# gabpaulin
-Student and programming lover
-Improving my skills more and more
+##Rockseat Discover
+https://www.rocketseat.com.br/discover
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-stoltemberg-950563287/)
 
 ## Habilities
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
