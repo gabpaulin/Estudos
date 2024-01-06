@@ -1,4 +1,8 @@
 ## Habilities
+<h3> This is a project for my first website supported by Rockseat's discover course taught by Mayk Brito,<br>
+some changes were made to make it suitable for an about me presentation page.<br>
+changes such as certificates page, changed photos, README, etc... <h3>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
