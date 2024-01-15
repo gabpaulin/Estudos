@@ -1,10 +1,4 @@
 ## Habilities
-<<<<<<< HEAD
-=======
-<h3> This is a project for my first website supported by Rockseat's discover course taught by Mayk Brito,<br>
-some changes were made to make it suitable for an about me presentation page.<br>
-changes such as certificates page, changed photos, README, etc... <h3>
->>>>>>> 3a26c6f783906c090f497d77473a24a81bd04980
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
