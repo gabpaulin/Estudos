@@ -9,3 +9,14 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar1.png")
   }
 }
+
+function toggleMode() {
+  let theme = localStorage.getItem('theme');
+  theme = (theme === 'dark') ? 'light' : 'dark';
+  document.body.className = theme;
+  localStorage.setItem('theme', theme);
+}
+
+window.onload = () => {
+  document.body.className = localStorage.getItem('theme') || 'light';
+};
